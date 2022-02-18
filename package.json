@@ -1,0 +1,14 @@
+{
+  "name": "deves",
+  "version": "1.0.0",
+  "description": "this is a project for devs database",
+  "main": "index.js",
+  "scripts": {
+    "db":"json-server --watch db.json --port 2020"
+  },
+  "author": "Zonayed Ahamad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
